@@ -1,0 +1,4 @@
+[build]
+base = "ticket/"
+publish= "ticket/build/"
+command= "yarn build"
